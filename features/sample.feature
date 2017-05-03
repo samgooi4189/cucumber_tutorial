@@ -19,3 +19,15 @@ Feature: Weblog
       }
     """
 
+  Scenario: Update a blog
+#    Given I create a weblog with the following details:
+#    """
+#      {
+#        "title": "ABC",
+#        "description": "ABC description" 
+#      }
+#    """
+
+  
+
+  Scenario: Delete a blog 
