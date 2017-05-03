@@ -1,5 +1,6 @@
 *Cucumber tutorial for beginner*
 
+<pre>
 * Requirements
 ** rvm
 ** bundle
@@ -22,3 +23,4 @@
 ** cucumber features/sample.feature -r features
 
 Prepared by samgooi4189.
+</pre>
