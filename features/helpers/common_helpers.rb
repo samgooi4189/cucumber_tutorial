@@ -27,7 +27,7 @@ def get(entity, id)
 
 end
 
-def update(entity, json)
+def update(entity, id, json)
   uri = URI("http://localhost:3000/#{entity}s/#{id}")
   req = Net::HTTP::Put.new(uri)
   req.set_form_data(json)

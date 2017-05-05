@@ -19,7 +19,7 @@ Feature: Weblog
       }
     """
 
-  Scenario: Update a blog
+  Scenario: Update a weblog
 #    Given I create a weblog with the following details:
 #    """
 #      {
@@ -30,4 +30,4 @@ Feature: Weblog
 
   
 
-  Scenario: Delete a blog 
+  Scenario: Delete a weblog 
